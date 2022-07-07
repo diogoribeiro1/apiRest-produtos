@@ -1,4 +1,4 @@
-# apiRest-produtos
+# apirest-produtos
 Api rest de produtos com Swagger e CRUD completo em java e Spring boot.
 
 <h3><li>Tecnologias usadas</li></h3>
